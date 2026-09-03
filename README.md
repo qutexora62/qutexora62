@@ -1,201 +1,69 @@
-<div align="center">
+# 👋 Hi — I'm qutexora62
+Welcome to my GitHub space — a place where code meets creativity.
 
-### ✨ 𝗤𝗨𝗧𝗘𝗫𝗢𝗥𝗔𝟲𝟮 ✨
-
-```
-  ╔═══════════════════════════════════════════════════════╗
-  ║                                                       ║
-  ║      ██   ██  ██████  ██   ██  ███████  ██████        ║
-  ║       ██ ██  ██    ██ ██   ██ ██      ██    ██        ║
-  ║        ███   ██    ██ ██   ██ ██      ██    ██        ║
-  ║       ██ ██  ██    ██ ██   ██ ██      ██    ██        ║
-  ║      ██   ██  ██████   █████   ███████  ██████        ║
-  ║                                                       ║
-  ║       ██████  ███████ ██      ███████                  ║
-  ║      ██    ██ ██      ██      ██                       ║
-  ║      ██    ██ █████   ██      ███████                  ║
-  ║      ██    ██ ██      ██           ██                  ║
-  ║       ██████  ███████ ███████ ███████                  ║
-  ║                                                       ║
-  ╚═══════════════════════════════════════════════════════╝
-```
-
-<br>
-
-![Typing SVG](https://readme-typing-svg.demolab.com?font=Black+Ops+One&weight=600&size=44&duration=3000&pause=1000&color=FF6B6B&center=true&vCenter=true&multiline=true&repeat=true&width=800&height=100&lines=%F0%9F%94%A5+Full+Stack+Developer+%F0%9F%94%A5%3B%F0%9F%9A%80+Tech+Enthusiast+%F0%9F%9A%80%3B%F0%9F%92%A1+Building+Cool+Stuff+%F0%9F%92%A1)
-
-<br>
-
-```
-  ┏━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━┓
-  ┃  ⚡  Passionate Developer • Tech Enthusiast              ┃
-  ┃  📱  PWA & Mobile App Enthusiast                        ┃
-  ┃  ☁️  Cloud & Serverless Architecture Lover              ┃
-  ┃  🔐  Security First Mindset                             ┃
-  ┃  🧠  Always Learning, Always Growing                    ┃
-  ┗━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━┛
-```
-
-<img src="https://komarev.com/ghpvc/?username=qutexora62&color=blueviolet&style=for-the-badge&label=PROFILE+VIEWS"/>
-
-</div>
-
-<br>
+![Typing](https://readme-typing-svg.demolab.com?font=Fira+Code&weight=600&size=28&pause=1000&color=00E5FF&center=true&width=800&height=48&vCenter=true&lines=Hi+there!+I+build+beautiful+code;Welcome+to+my+profile)
 
 ---
 
-## 🛠️ Tech Stack
+## ✨ About Me
+I design polished frontends, craft lightweight animations, and make developer profiles that stand out. I enjoy turning small UI details into delightful experiences.
 
-<div align="center">
-
-```
-  ╔═══════════════════════════════════════════════════╗
-  ║              MY TECH ARSENAL                      ║
-  ╠═══════════════════════════════════════════════════╣
-  ║                                                   ║
-  ║   FRONTEND          BACKEND           TOOLS       ║
-  ║   ─────────         ───────           ─────       ║
-  ║   ⚛️ React          🔥 Supabase       📦 Vite     ║
-  ║   📝 TypeScript     🐘 PostgreSQL     🎨 Tailwind ║
-  ║   📱 PWA            🔑 Auth           🔧 Git      ║
-  ║   🎯 React Router   💾 Storage        🚀 Vercel   ║
-  ║                                                   ║
-  ╚═══════════════════════════════════════════════════╝
-```
-
-![React](https://img.shields.io/badge/React-18-61DAFB?style=flat-square&logo=react&logoColor=black)
-![TypeScript](https://img.shields.io/badge/TypeScript-5.5-3178C6?style=flat-square&logo=typescript&logoColor=white)
-![Supabase](https://img.shields.io/badge/Supabase-2.112-3ECF8E?style=flat-square&logo=supabase&logoColor=white)
-![Tailwind CSS](https://img.shields.io/badge/Tailwind_CSS-3.4-06B6D4?style=flat-square&logo=tailwindcss&logoColor=white)
-![Vite](https://img.shields.io/badge/Vite-5.3-646CFF?style=flat-square&logo=vite&logoColor=white)
-![PostgreSQL](https://img.shields.io/badge/PostgreSQL-14-4169E1?style=flat-square&logo=postgresql&logoColor=white)
-![Node.js](https://img.shields.io/badge/Node.js-339933?style=flat-square&logo=node.js&logoColor=white)
-![Git](https://img.shields.io/badge/Git-F05032?style=flat-square&logo=git&logoColor=white)
-![Vercel](https://img.shields.io/badge/Vercel-000000?style=flat-square&logo=vercel&logoColor=white)
-
-</div>
-
-<br>
+- Location: Your City, Country
+- Pronouns: they/them (edit as needed)
+- Focus: Frontend • Motion Design • Developer UX
 
 ---
 
-## 📊 GitHub Stats
-
-<div align="center">
-
-<img width="48%" src="https://github-readme-stats.vercel.app/api?username=qutexora62&show_icons=true&theme=radical&hide_border=true&count_private=true&include_all_commits=true" />
-<img width="48%" src="https://github-readme-streak-stats.herokuapp.com/?user=qutexora62&theme=radical&hide_border=true" />
-
-</div>
-
-<br>
-
-<div align="center">
-
-<img width="60%" src="https://github-readme-stats.vercel.app/api/top-langs/?username=qutexora62&layout=compact&theme=radical&hide_border=true" />
-
-</div>
-
-<br>
+## 🔭 What I Do
+- Build responsive UIs with attention to micro-interactions and accessibility.
+- Create animated README / profile assets (SVG, GIF, Lottie).
+- Prototype visual ideas in Figma and implement them with modern web stacks.
 
 ---
 
-## 🏆 GitHub Trophies
-
-<div align="center">
-
-<img src="https://github-profile-trophy.vercel.app/?username=qutexora62&theme=radical&no-frame=true&column=7&margin-w=10" />
-
-</div>
-
-<br>
+## 🛠 Tech & Tools
+- Languages: JavaScript • TypeScript • HTML • CSS
+- Frameworks/Libraries: React • Next.js • Tailwind CSS • Three.js
+- Design / Tools: Figma • Adobe/Illustrator • VS Code • Git & GitHub
 
 ---
 
-## 📈 Activity Graph
+## 🚀 Featured Projects
+> Replace these placeholders with your real project names & links for a personalized profile.
 
-<div align="center">
-
-[![Activity Graph](https://github-readme-activity-graph.vercel.app/graph?username=qutexora62&theme=redical&hide_border=true&bg_color=0d1117&color=ff7b72&point=ffffff&area_color=30363d&area=true)](https://github.com/ashutosh00710/github-readme-activity-graph)
-
-</div>
-
-<br>
-
----
-
-## 🎯 Featured Projects
-
-<div align="center">
-
-<table>
-<tr>
-<td width="50%">
-
-### 🎓 ExamPrep
-> *Premium Exam Preparation Platform*
-
-![React](https://img.shields.io/badge/React-18-61DAFB?style=flat-square&logo=react&logoColor=black)
-![TypeScript](https://img.shields.io/badge/TypeScript-5.5-3178C6?style=flat-square&logo=typescript&logoColor=white)
-![Supabase](https://img.shields.io/badge/Supabase-2.112-3ECF8E?style=flat-square&logo=supabase&logoColor=white)
-
-- 🧠 Interactive Quizzes with Timer
-- 📄 Previous Year Papers
-- 📝 Handwritten Notes
-- 🔐 Admin Panel + Auth
-- 📱 PWA Ready
-
-[![Repo](https://img.shields.io/badge/View_Repo-blue?style=for-the-badge&logo=github)](https://github.com/qutexora62/ExamPrep)
-
-</td>
-<td width="50%">
-
-### ⚡ More Coming Soon...
-
-> *Stay tuned for more awesome projects!*
-
-![WIP](https://img.shields.io/badge/Work_In_Progress-orange?style=for-the-badge)
-
-- 🔥 New projects in pipeline
-- 💡 Exploring new technologies
-- 🚀 Building cool stuff
-
-</td>
-</tr>
-</table>
-
-</div>
-
-<br>
+- **Project One** — Short 1-line description.  
+  Demo / Repo: https://github.com/qutexora62/project-one
+- **Project Two** — Short 1-line description.  
+  Demo / Repo: https://github.com/qutexora62/project-two
+- **Experiment: Motion Lab** — Tiny experiments with SVG/Canvas/Three.js.  
+  Repo: https://github.com/qutexora62/motion-lab
 
 ---
 
-## 💭 Random Dev Quote
-
-<div align="center">
-
-![Readme Quotes](https://github-readme-quotes.vercel.app/api?type=horizontal&theme=radical)
-
-</div>
-
-<br>
+## 📈 GitHub Stats
+![GitHub stats](https://github-readme-stats.vercel.app/api?username=qutexora62&show_icons=true&theme=dark)
+![Top Langs](https://github-readme-stats.vercel.app/api/top-langs/?username=qutexora62&layout=compact&theme=dark)
 
 ---
 
-<div align="center">
+## 💬 Let's Connect
+- Website / Portfolio: https://your-site.example
+- Twitter / X: @your_handle
+- Email: your-email@example.com
+- Discord / Telegram: your-handle-here
 
-```
-  ╔═══════════════════════════════════════════════════════════╗
-  ║                                                           ║
-  ║   ⭐ Thanks for visiting my profile!                      ║
-  ║                                                           ║
-  ║   🚀 Keep Building • Keep Learning • Keep Growing         ║
-  ║                                                           ║
-  ║   Made with ❤️ by qutexora62                              ║
-  ║                                                           ║
-  ╚═══════════════════════════════════════════════════════════╝
-```
+---
 
-<img src="https://komarev.com/ghpvc/?username=qutexora62&color=blueviolet&style=for-the-badge&label=VIEWS"/>
+## ✍️ Customize & Use
+1. Rename this file to `README.md` in the repository named exactly `qutexora62` to show it on your profile.
+2. Replace the placeholder project links and contact details with real ones.
+3. To add an animated background or SVG, put the asset in an `assets/` folder and reference it with Markdown image syntax:
+   `![bg](./assets/particles.svg)`
+4. Want a different vibe? Change the GitHub-stats theme parameter (`&theme=radical`, `&theme=dark`, etc.) or swap the typing SVG colors.
 
-</div>
+---
+
+If you'd like, I can:
+- Convert this into a themed variant (neon / pastel / cyberpunk / minimal / dark),
+- Generate matching animated SVGs (particles, nebula, bubbles) and add them to the repo,
+- Or directly update/rename files in your repo — tell me what to change.
