@@ -100,7 +100,7 @@ mindset: "Build. Break. Learn. Repeat."
 <div align="center">
 
 <a href="https://github.com/qutexora62">
-  <img src="https://img.shields.io/badge/GitHub-QUTEXORA-181717?style=for-the-badge&logo=github&logoColor=white" />
+  <img src="https://img.shields.io/badge/GitHub-QUTEXORA-6D4AFF?style=for-the-badge&logo=github&logoColor=white" />
 </a>
 <a href="mailto:Cutexora62@protonmail.com?subject=Hello%20Aarav%20%F0%9F%91%8B&body=Hi%20Aarav%2C%0A%0AI%20came%20across%20your%20GitHub%20profile%20and%20wanted%20to%20reach%20out.%0A%0AName%3A%20%0APurpose%3A%20%0AMessage%3A%20%0A%0AThanks%21">
   <img src="https://img.shields.io/badge/Email-Cutexora62%40protonmail.com-6D4AFF?style=for-the-badge&logo=protonmail&logoColor=white" />
