@@ -19,7 +19,6 @@
 
 ```yaml
 name: Aarav
-username: qutexora62
 role: Developer & Creator
 focus: [Web Development, Android Apps, UI/UX Design]
 mindset: "Build. Break. Learn. Repeat."
