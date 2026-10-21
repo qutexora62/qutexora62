@@ -102,6 +102,9 @@ mindset: "Build. Break. Learn. Repeat."
 <a href="https://github.com/qutexora62">
   <img src="https://img.shields.io/badge/GitHub-181717?style=for-the-badge&logo=github&logoColor=white" />
 </a>
+<a href="mailto:Cutexora62@protonmail.com">
+  <img src="https://img.shields.io/badge/Email-Cutexora62%40protonmail.com-6D4AFF?style=for-the-badge&logo=protonmail&logoColor=white" />
+</a>
 
 </div>
 
