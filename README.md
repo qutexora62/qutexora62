@@ -15,7 +15,9 @@
 
 ---
 
-## <img src="https://media.giphy.com/media/hvRJCLFzcasrR4ia7z/giphy.gif" width="28"> About Me
+<div align="center">
+<img src="https://capsule-render.vercel.app/api?type=rect&color=gradient&customColorList=12,20,24,30&height=60&text=About%20Me&fontSize=32&fontColor=ffffff&animation=fadeIn" width="100%" />
+</div>
 
 ```yaml
 name: Aarav
@@ -32,7 +34,9 @@ mindset: "Build. Break. Learn. Repeat."
 
 ---
 
-## 🛠️ Tech Stack
+<div align="center">
+<img src="https://capsule-render.vercel.app/api?type=rect&color=gradient&customColorList=12,20,24,30&height=60&text=Tech%20Stack&fontSize=32&fontColor=ffffff&animation=fadeIn" width="100%" />
+</div>
 
 <div align="center">
 
@@ -51,7 +55,9 @@ mindset: "Build. Break. Learn. Repeat."
 
 ---
 
-## 📊 GitHub Stats
+<div align="center">
+<img src="https://capsule-render.vercel.app/api?type=rect&color=gradient&customColorList=12,20,24,30&height=60&text=GitHub%20Stats&fontSize=32&fontColor=ffffff&animation=fadeIn" width="100%" />
+</div>
 
 <div align="center">
 
@@ -69,25 +75,9 @@ mindset: "Build. Break. Learn. Repeat."
 
 ---
 
-## 🚀 Featured Projects
-
 <div align="center">
-
-<a href="https://github.com/qutexora62/mEsHCost">
-  <img src="https://github-readme-stats.vercel.app/api/pin/?username=qutexora62&repo=mEsHCost&theme=radical&hide_border=true&bg_color=0D1117&title_color=00E5FF&text_color=c9d1d9&icon_color=00E5FF" />
-</a>
-<a href="https://github.com/qutexora62/QuizPro">
-  <img src="https://github-readme-stats.vercel.app/api/pin/?username=qutexora62&repo=QuizPro&theme=radical&hide_border=true&bg_color=0D1117&title_color=00E5FF&text_color=c9d1d9&icon_color=00E5FF" />
-</a>
-<a href="https://github.com/qutexora62/Fun2Money">
-  <img src="https://github-readme-stats.vercel.app/api/pin/?username=qutexora62&repo=Fun2Money&theme=radical&hide_border=true&bg_color=0D1117&title_color=00E5FF&text_color=c9d1d9&icon_color=00E5FF" />
-</a>
-
+<img src="https://capsule-render.vercel.app/api?type=rect&color=gradient&customColorList=12,20,24,30&height=60&text=Certifications&fontSize=32&fontColor=ffffff&animation=fadeIn" width="100%" />
 </div>
-
----
-
-## 📜 Certifications
 
 <div align="center">
 
@@ -111,7 +101,9 @@ mindset: "Build. Break. Learn. Repeat."
 
 ---
 
-## 🌐 Connect With Me
+<div align="center">
+<img src="https://capsule-render.vercel.app/api?type=rect&color=gradient&customColorList=12,20,24,30&height=60&text=Connect%20With%20Me&fontSize=32&fontColor=ffffff&animation=fadeIn" width="100%" />
+</div>
 
 <div align="center">
 
