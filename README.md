@@ -60,7 +60,7 @@ mindset: "Build. Break. Learn. Repeat."
 
 <br/>
 
-<img src="https://github-readme-streak-stats.herokuapp.com/?user=qutexora62&theme=radical&hide_border=true&background=0D1117&stroke=00E5FF&ring=00E5FF&fire=00E5FF&currStreakLabel=00E5FF" />
+<img src="https://streak-stats.demolab.com/?user=qutexora62&theme=radical&hide_border=true&background=0D1117&stroke=00E5FF&ring=00E5FF&fire=00E5FF&currStreakLabel=00E5FF" />
 
 <br/>
 
