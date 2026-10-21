@@ -101,10 +101,10 @@ mindset: "Build. Break. Learn. Repeat."
 
 <div align="center">
 
-<img src="https://img.shields.io/badge/ꜱᴀᴄʜ%20ʙᴏʟᴛᴀ%20ʜᴏᴏɴ%2C%20ᴘʜɪʀꜱᴇ%20ꜱᴇᴇᴋʜ%20ʟᴇᴛᴀ%20ʜᴏᴏɴ-FF0000?style=for-the-badge" alt="such bolta hoon phirse seekh leta hoon" />
-<img src="https://img.shields.io/badge/✦-FF7F00?style=for-the-badge" alt="✦" />
-<img src="https://img.shields.io/badge/ᴅᴏꜱᴛɪ%20ꜱᴀᴄᴄʜɪ%2C%20ᴛɪᴍᴇ%20ᴋʜᴀʀᴀᴀʙ%20ɴᴀʜɪ%20ᴋᴀʀᴛᴀ-00FF00?style=for-the-badge" alt="dosti sacchi time kharaab nahi karta" />
-<img src="https://img.shields.io/badge/✧-0000FF?style=for-the-badge" alt="✧" />
+<img src="https://img.shields.io/badge/1%20-%20ꜱᴀᴄʜ%20ʙᴏʟᴛᴀ%20ʜᴏᴏɴ%2C-FF0000?style=for-the-badge" alt="1 such bolta hoon" />
+<img src="https://img.shields.io/badge/2%20-%20ᴘʜɪʀꜱᴇ%20ꜱᴇᴇᴋʜ%20ʟᴇᴛᴀ%20ʜᴏᴏɴ%20✦-FF7F00?style=for-the-badge" alt="2 phirse seekh leta hoon" />
+<img src="https://img.shields.io/badge/3%20-%20ᴅᴏꜱᴛɪ%20ꜱᴀᴄᴄʜɪ%2C-00FF00?style=for-the-badge" alt="3 dosti sacchi" />
+<img src="https://img.shields.io/badge/4%20-%20ᴛɪᴍᴇ%20ᴋʜᴀʀᴀᴀʙ%20ɴᴀʜɪ%20ᴋᴀʀᴛᴀ.%20✧-0000FF?style=for-the-badge" alt="4 time kharaab nahi karta" />
 
 </div>
 
