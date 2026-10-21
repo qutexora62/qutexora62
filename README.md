@@ -35,7 +35,7 @@ mindset: "Build. Break. Learn. Repeat."
 ---
 
 <div align="center">
-<img src="https://capsule-render.vercel.app/api?type=rect&color=gradient&customColorList=12,20,24,30&height=60&text=My%20Work&fontSize=32&fontColor=ffffff&animation=fadeIn" width="100%" />
+<img src="https://capsule-render.vercel.app/api?type=rect&color=gradient&customColorList=12,20,24,30&height=60&text=Repository&fontSize=32&fontColor=ffffff&animation=fadeIn" width="100%" />
 </div>
 
 <div align="center">
