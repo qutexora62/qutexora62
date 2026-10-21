@@ -69,11 +69,11 @@ mindset: "Build. Break. Learn. Repeat."
 
 <div align="center">
 
-<img height="180em" src="https://github-readme-stats.vercel.app/api?username=qutexora62&show_icons=true&theme=radical&include_all_commits=true&count_private=true&hide_border=true&bg_color=0D1117&title_color=00E5FF&icon_color=00E5FF&text_color=c9d1d9&border_radius=12" />
+<img src="https://raw.githubusercontent.com/qutexora62/qutexora62/output/stats.svg" alt="GitHub Stats" />
 
 <br/>
 
-<img src="https://github-readme-activity-graph.vercel.app/graph?username=qutexora62&bg_color=0D1117&color=00E5FF&line=FF69B4&point=FFFFFF&area=true&hide_border=true&custom_title=Aarav%27s%20Contribution%20Graph" width="95%" />
+<img src="https://raw.githubusercontent.com/qutexora62/qutexora62/output/graph.svg" alt="Contribution Graph" width="95%" />
 
 </div>
 
@@ -96,15 +96,26 @@ mindset: "Build. Break. Learn. Repeat."
 ---
 
 <div align="center">
-<img src="https://capsule-render.vercel.app/api?type=rect&color=gradient&customColorList=12,20,24,30&height=60&text=Own%20VIBE&fontSize=32&fontColor=ffffff&animation=fadeIn" width="100%" />
+<img src="https://capsule-render.vercel.app/api?type=rect&color=gradient&customColorList=12,20,24,30&height=60&text=Certifications&fontSize=32&fontColor=ffffff&animation=fadeIn" width="100%" />
 </div>
 
 <div align="center">
 
-<img src="https://img.shields.io/badge/1.%20ꜱᴀᴄʜ%20ʙᴏʟᴛᴀ%20ʜᴏᴏɴ%2C-FF0000?style=for-the-badge" alt="1 such bolta hoon" />
-<img src="https://img.shields.io/badge/2.%20ᴘʜɪʀꜱᴇ%20ꜱᴇᴇᴋʜ%20ʟᴇᴛᴀ%20ʜᴏᴏɴ%20✦-FF7F00?style=for-the-badge" alt="2 phirse seekh leta hoon" />
-<img src="https://img.shields.io/badge/3.%20ᴅᴏꜱᴛɪ%20ꜱᴀᴄᴄʜɪ%2C-00FF00?style=for-the-badge" alt="3 dosti sacchi" />
-<img src="https://img.shields.io/badge/4.%20ᴛɪᴍᴇ%20ᴋʜᴀʀᴀᴀʙ%20ɴᴀʜɪ%20ᴋᴀʀᴛᴀ%20ʜᴏᴏɴ.%20✧-0000FF?style=for-the-badge" alt="4 time kharaab nahi karta hoon" />
+<!-- Meta -->
+<img src="https://img.shields.io/badge/Meta-Front--End%20Developer-FF0000?style=for-the-badge&logo=meta&logoColor=white" alt="Meta Front-End Developer" />
+<img src="https://img.shields.io/badge/Google-Android%20Development-FF7F00?style=for-the-badge&logo=android&logoColor=white" alt="Google Android Development" />
+<br />
+<!-- freeCodeCamp -->
+<img src="https://img.shields.io/badge/freeCodeCamp-JavaScript-FFFF00?style=for-the-badge&logo=freecodecamp&logoColor=black" alt="freeCodeCamp JavaScript" />
+<img src="https://img.shields.io/badge/Microsoft-Python-00FF00?style=for-the-badge&logo=python&logoColor=black" alt="Microsoft Python" />
+<img src="https://img.shields.io/badge/Cisco-CCNA-FF1493?style=for-the-badge&logo=cisco&logoColor=white" alt="Cisco CCNA" />
+<br />
+<!-- Cloud & Design -->
+<img src="https://img.shields.io/badge/AWS-Cloud%20Practitioner-4B0082?style=for-the-badge&logo=amazon-aws&logoColor=white" alt="AWS Cloud Practitioner" />
+<img src="https://img.shields.io/badge/Google-UI%2FUX%20Design-0000FF?style=for-the-badge&logo=google&logoColor=white" alt="Google UI/UX Design" />
+<br />
+<!-- Git -->
+<img src="https://img.shields.io/badge/Git-Version%20Control-9400D3?style=for-the-badge&logo=git&logoColor=white" alt="Git Version Control" />
 
 </div>
 
