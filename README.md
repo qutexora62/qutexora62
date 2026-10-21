@@ -69,7 +69,11 @@ mindset: "Build. Break. Learn. Repeat."
 
 <div align="center">
 
-<img height="180em" src="https://github-readme-stats.vercel.app/api?username=qutexora62&show_icons=true&theme=radical&include_all_commits=true&count_private=true&hide_border=true&bg_color=0D1117&title_color=00E5FF&icon_color=00E5FF&text_color=c9d1d9" />
+<img height="180em" src="https://github-readme-stats.vercel.app/api?username=qutexora62&show_icons=true&theme=radical&include_all_commits=true&count_private=true&hide_border=true&bg_color=0D1117&title_color=00E5FF&icon_color=00E5FF&text_color=c9d1d9&border_radius=12" />
+
+<br/>
+
+<img src="https://github-readme-activity-graph.vercel.app/graph?username=qutexora62&bg_color=0D1117&color=00E5FF&line=FF69B4&point=FFFFFF&area=true&hide_border=true&custom_title=Aarav%27s%20Contribution%20Graph" width="95%" />
 
 </div>
 
@@ -92,26 +96,15 @@ mindset: "Build. Break. Learn. Repeat."
 ---
 
 <div align="center">
-<img src="https://capsule-render.vercel.app/api?type=rect&color=gradient&customColorList=12,20,24,30&height=60&text=Certifications&fontSize=32&fontColor=ffffff&animation=fadeIn" width="100%" />
+<img src="https://capsule-render.vercel.app/api?type=rect&color=gradient&customColorList=12,20,24,30&height=60&text=My%20Vibe&fontSize=32&fontColor=ffffff&animation=fadeIn" width="100%" />
 </div>
 
 <div align="center">
 
-<!-- AWS -->
-<img src="https://img.shields.io/badge/AWS-Certified%20Solutions%20Architect%20--%20Professional-FF0000?style=for-the-badge&logo=amazon-aws&logoColor=white" alt="AWS Certified Solutions Architect" />
-<img src="https://img.shields.io/badge/AWS-Certified%20Machine%20Learning%20--%20Specialty-FF7F00?style=for-the-badge&logo=amazon-aws&logoColor=white" alt="AWS Certified ML Specialty" />
-<br />
-<!-- Oracle -->
-<img src="https://img.shields.io/badge/Oracle-Certified%20Professional%2C%20Java%20SE-FFFF00?style=for-the-badge&logo=oracle&logoColor=black" alt="Oracle Certified Professional Java SE" />
-<img src="https://img.shields.io/badge/Oracle-Certified%20Associate%2C%20Database%20SQL-00FF00?style=for-the-badge&logo=oracle&logoColor=black" alt="Oracle Certified Associate Database SQL" />
-<img src="https://img.shields.io/badge/Cisco-Cybersecurity%20Essentials-FF1493?style=for-the-badge&logo=cisco&logoColor=white" alt="Cisco Cybersecurity Essentials" />
-<br />
-<!-- NPTEL -->
-<img src="https://img.shields.io/badge/NPTEL-Elite%20in%20Deep%20Learning-4B0082?style=for-the-badge&logo=google-classroom&logoColor=white" alt="NPTEL Elite in Deep Learning" />
-<img src="https://img.shields.io/badge/NPTEL-Elite%20%2B%20Gold%20in%20ML-0000FF?style=for-the-badge&logo=google-classroom&logoColor=white" alt="NPTEL Elite + Gold in ML" />
-<br />
-<!-- Cisco -->
-<img src="https://img.shields.io/badge/Cisco-CCNA-9400D3?style=for-the-badge&logo=cisco&logoColor=white" alt="Cisco CCNA" />
+<img src="https://img.shields.io/badge/ꜱᴀᴄʜ%20ʙᴏʟᴛᴀ%20ʜᴏᴏɴ%2C%20ᴘʜɪʀꜱᴇ%20ꜱᴇᴇᴋʜ%20ʟᴇᴛᴀ%20ʜᴏᴏɴ-FF0000?style=for-the-badge" alt="such bolta hoon phirse seekh leta hoon" />
+<img src="https://img.shields.io/badge/✦-FF7F00?style=for-the-badge" alt="✦" />
+<img src="https://img.shields.io/badge/ᴅᴏꜱᴛɪ%20ꜱᴀᴄᴄʜɪ%2C%20ᴛɪᴍᴇ%20ᴋʜᴀʀᴀᴀʙ%20ɴᴀʜɪ%20ᴋᴀʀᴛᴀ-00FF00?style=for-the-badge" alt="dosti sacchi time kharaab nahi karta" />
+<img src="https://img.shields.io/badge/✧-0000FF?style=for-the-badge" alt="✧" />
 
 </div>
 
