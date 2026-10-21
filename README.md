@@ -74,20 +74,20 @@ mindset: "Build. Break. Learn. Repeat."
 <div align="center">
 
 <!-- AWS -->
-<img src="https://img.shields.io/badge/AWS-Certified%20Solutions%20Architect%20--%20Professional-232F3E?style=for-the-badge&logo=amazon-aws&logoColor=white" alt="AWS Certified Solutions Architect" />
-<img src="https://img.shields.io/badge/AWS-Certified%20Machine%20Learning%20--%20Specialty-232F3E?style=for-the-badge&logo=amazon-aws&logoColor=white" alt="AWS Certified ML Specialty" />
+<img src="https://img.shields.io/badge/AWS-Certified%20Solutions%20Architect%20--%20Professional-FF0000?style=for-the-badge&logo=amazon-aws&logoColor=white" alt="AWS Certified Solutions Architect" />
+<img src="https://img.shields.io/badge/AWS-Certified%20Machine%20Learning%20--%20Specialty-FF7F00?style=for-the-badge&logo=amazon-aws&logoColor=white" alt="AWS Certified ML Specialty" />
 <br />
 <!-- Oracle -->
-<img src="https://img.shields.io/badge/Oracle-Certified%20Professional%2C%20Java%20SE-F80000?style=for-the-badge&logo=oracle&logoColor=white" alt="Oracle Certified Professional Java SE" />
-<img src="https://img.shields.io/badge/Oracle-Certified%20Associate%2C%20Database%20SQL-F80000?style=for-the-badge&logo=oracle&logoColor=white" alt="Oracle Certified Associate Database SQL" />
+<img src="https://img.shields.io/badge/Oracle-Certified%20Professional%2C%20Java%20SE-FFFF00?style=for-the-badge&logo=oracle&logoColor=black" alt="Oracle Certified Professional Java SE" />
+<img src="https://img.shields.io/badge/Oracle-Certified%20Associate%2C%20Database%20SQL-00FF00?style=for-the-badge&logo=oracle&logoColor=black" alt="Oracle Certified Associate Database SQL" />
 <br />
 <!-- NPTEL -->
-<img src="https://img.shields.io/badge/NPTEL-Elite%20%2B%20Gold%20in%20ML-FF6F00?style=for-the-badge&logo=google-classroom&logoColor=white" alt="NPTEL Elite + Gold in ML" />
-<img src="https://img.shields.io/badge/NPTEL-Elite%20in%20Deep%20Learning-FF6F00?style=for-the-badge&logo=google-classroom&logoColor=white" alt="NPTEL Elite in Deep Learning" />
+<img src="https://img.shields.io/badge/NPTEL-Elite%20%2B%20Gold%20in%20ML-0000FF?style=for-the-badge&logo=google-classroom&logoColor=white" alt="NPTEL Elite + Gold in ML" />
+<img src="https://img.shields.io/badge/NPTEL-Elite%20in%20Deep%20Learning-4B0082?style=for-the-badge&logo=google-classroom&logoColor=white" alt="NPTEL Elite in Deep Learning" />
 <br />
 <!-- Cisco -->
-<img src="https://img.shields.io/badge/Cisco-CCNA-1BA0D7?style=for-the-badge&logo=cisco&logoColor=white" alt="Cisco CCNA" />
-<img src="https://img.shields.io/badge/Cisco-Cybersecurity%20Essentials-1BA0D7?style=for-the-badge&logo=cisco&logoColor=white" alt="Cisco Cybersecurity Essentials" />
+<img src="https://img.shields.io/badge/Cisco-CCNA-9400D3?style=for-the-badge&logo=cisco&logoColor=white" alt="Cisco CCNA" />
+<img src="https://img.shields.io/badge/Cisco-Cybersecurity%20Essentials-FF1493?style=for-the-badge&logo=cisco&logoColor=white" alt="Cisco Cybersecurity Essentials" />
 
 </div>
 
