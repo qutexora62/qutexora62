@@ -26,11 +26,11 @@ focus: [Web Development, Android Apps, UI/UX Design]
 mindset: "Build. Break. Learn. Repeat."
 ```
 
-- 🔭 I build **responsive web apps** & **Android applications**
-- 🎨 I love crafting **clean, modern interfaces** with attention to detail
-- ⚡ I work in **Termux / Android** — no PC needed, pure mobile dev
-- 🌱 Currently exploring **full-stack development** & **automation**
-- 💬 Ask me about **HTML, CSS, JavaScript, Kotlin, Python**
+- 🔭 𝐈 𝐛𝐮𝐢𝐥𝐝 𝐫𝐞𝐬𝐩𝐨𝐧𝐬𝐢𝐯𝐞 𝐰𝐞𝐛 𝐚𝐩𝐩𝐬 & 𝐀𝐧𝐝𝐫𝐨𝐢𝐝 𝐚𝐩𝐩𝐥𝐢𝐜𝐚𝐭𝐢𝐨𝐧𝐬
+- 🎨 𝐈 𝐥𝐨𝐯𝐞 𝐜𝐫𝐚𝐟𝐭𝐢𝐧𝐠 𝐜𝐥𝐞𝐚𝐧, 𝐦𝐨𝐝𝐞𝐫𝐧 𝐢𝐧𝐭𝐞𝐫𝐟𝐚𝐜𝐞𝐬 𝐰𝐢𝐭𝐡 𝐚𝐭𝐭𝐞𝐧𝐭𝐢𝐨𝐧 𝐭𝐨 𝐝𝐞𝐭𝐚𝐢𝐥
+- ⚡ 𝐈 𝐰𝐨𝐫𝐤 𝐢𝐧 𝐓𝐞𝐫𝐦𝐮𝐱 / 𝐀𝐧𝐝𝐫𝐨𝐢𝐝 — 𝐧𝐨 𝐏𝐂 𝐧𝐞𝐞𝐝𝐞𝐝, 𝐩𝐮𝐫𝐞 𝐦𝐨𝐛𝐢𝐥𝐞 𝐝𝐞𝐯
+- 🌱 𝐂𝐮𝐫𝐫𝐞𝐧𝐭𝐥𝐲 𝐞𝐱𝐩𝐥𝐨𝐫𝐢𝐧𝐠 𝐟𝐮𝐥𝐥-𝐬𝐭𝐚𝐜𝐤 𝐝𝐞𝐯𝐞𝐥𝐨𝐩𝐦𝐞𝐧𝐭 & 𝐚𝐮𝐭𝐨𝐦𝐚𝐭𝐢𝐨𝐧
+- 💬 𝐀𝐬𝐤 𝐦𝐞 𝐚𝐛𝐨𝐮𝐭 𝐇𝐓𝐌𝐋, 𝐂𝐒𝐒, 𝐉𝐚𝐯𝐚𝐒𝐜𝐫𝐢𝐩𝐭, 𝐊𝐨𝐭𝐥𝐢𝐧, 𝐏𝐲𝐭𝐡𝐨𝐧
 
 ---
 
@@ -100,7 +100,7 @@ mindset: "Build. Break. Learn. Repeat."
 <div align="center">
 
 <a href="https://github.com/qutexora62">
-  <img src="https://img.shields.io/badge/GitHub-QUTEXORA-FFD700?style=for-the-badge&logo=github&logoColor=black" />
+  <img src="https://img.shields.io/badge/GitHub-QUTEXORA62-FFD700?style=for-the-badge&logo=github&logoColor=black" />
 </a>
 <a href="mailto:Cutexora62@protonmail.com?subject=Hello%20Aarav%20%F0%9F%91%8B&body=Hi%20Aarav%2C%0A%0AI%20came%20across%20your%20GitHub%20profile%20and%20wanted%20to%20reach%20out.%0A%0AName%3A%20%0APurpose%3A%20%0AMessage%3A%20%0A%0AThanks%21">
   <img src="https://img.shields.io/badge/Email-Cutexora62%40protonmail.com-6D4AFF?style=for-the-badge&logo=protonmail&logoColor=white" />
