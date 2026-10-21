@@ -105,7 +105,7 @@ mindset: "Build. Break. Learn. Repeat."
 <a href="mailto:Cutexora62@protonmail.com?subject=Hello%20Aarav%20%F0%9F%91%8B&body=Hi%20Aarav%2C%0A%0AI%20came%20across%20your%20GitHub%20profile%20and%20wanted%20to%20reach%20out.%0A%0AName%3A%20%0APurpose%3A%20%0AMessage%3A%20%0A%0AThanks%21">
   <img src="https://img.shields.io/badge/Email-Cutexora62%40protonmail.com-6D4AFF?style=for-the-badge&logo=protonmail&logoColor=white" />
 </a>
-<a href="https://wa.me/917493090313">
+<a href="https://wa.me/917493090313?text=Hi%20Aarav%20%F0%9F%91%8B%0A%0AI%20came%20across%20your%20GitHub%20profile%20and%20wanted%20to%20reach%20out.%0A%0AName%3A%20%0APurpose%3A%20%0AMessage%3A%20%0A%0AThanks%21">
   <img src="https://img.shields.io/badge/WhatsApp-CUTEXORA-FF69B4?style=for-the-badge&logo=whatsapp&logoColor=white" />
 </a>
 
