@@ -71,10 +71,6 @@ mindset: "Build. Break. Learn. Repeat."
 
 <img src="https://raw.githubusercontent.com/qutexora62/qutexora62/output/stats.svg" alt="GitHub Stats" />
 
-<br/>
-
-<img src="https://raw.githubusercontent.com/qutexora62/qutexora62/output/graph.svg" alt="Contribution Graph" width="95%" />
-
 </div>
 
 ---
