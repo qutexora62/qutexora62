@@ -80,14 +80,14 @@ mindset: "Build. Break. Learn. Repeat."
 <!-- Oracle -->
 <img src="https://img.shields.io/badge/Oracle-Certified%20Professional%2C%20Java%20SE-FFFF00?style=for-the-badge&logo=oracle&logoColor=black" alt="Oracle Certified Professional Java SE" />
 <img src="https://img.shields.io/badge/Oracle-Certified%20Associate%2C%20Database%20SQL-00FF00?style=for-the-badge&logo=oracle&logoColor=black" alt="Oracle Certified Associate Database SQL" />
+<img src="https://img.shields.io/badge/Cisco-Cybersecurity%20Essentials-FF1493?style=for-the-badge&logo=cisco&logoColor=white" alt="Cisco Cybersecurity Essentials" />
 <br />
 <!-- NPTEL -->
-<img src="https://img.shields.io/badge/NPTEL-Elite%20%2B%20Gold%20in%20ML-0000FF?style=for-the-badge&logo=google-classroom&logoColor=white" alt="NPTEL Elite + Gold in ML" />
 <img src="https://img.shields.io/badge/NPTEL-Elite%20in%20Deep%20Learning-4B0082?style=for-the-badge&logo=google-classroom&logoColor=white" alt="NPTEL Elite in Deep Learning" />
+<img src="https://img.shields.io/badge/NPTEL-Elite%20%2B%20Gold%20in%20ML-0000FF?style=for-the-badge&logo=google-classroom&logoColor=white" alt="NPTEL Elite + Gold in ML" />
 <br />
 <!-- Cisco -->
 <img src="https://img.shields.io/badge/Cisco-CCNA-9400D3?style=for-the-badge&logo=cisco&logoColor=white" alt="Cisco CCNA" />
-<img src="https://img.shields.io/badge/Cisco-Cybersecurity%20Essentials-FF1493?style=for-the-badge&logo=cisco&logoColor=white" alt="Cisco Cybersecurity Essentials" />
 
 </div>
 
