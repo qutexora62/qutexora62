@@ -11,6 +11,15 @@
 <img src="https://komarev.com/ghpvc/?username=qutexora62&label=Profile%20Views&color=00E5FF&style=for-the-badge" alt="Profile Views" />
 <img src="https://img.shields.io/github/followers/qutexora62?label=Followers&style=for-the-badge&color=00E5FF&labelColor=1a1a1a" alt="Followers" />
 
+<br/>
+
+<img src="https://img.shields.io/badge/B.Tech-Computer%20Science-4A148C?style=for-the-badge&logo=google-scholar&logoColor=white&color=6C3483" alt="B.Tech CSE" />
+<img src="https://img.shields.io/badge/M.Tech-AI%20%26%20ML-4A148C?style=for-the-badge&logo=deeplearning&logoColor=white&color=7D3C98" alt="M.Tech AI/ML" />
+<img src="https://img.shields.io/badge/Location-Bijaypur%2C%20India-4A148C?style=for-the-badge&logo=google-maps&logoColor=white&color=5B2C8E" alt="Location" />
+<a href="https://github.com/qutexora62">
+  <img src="https://img.shields.io/badge/Portfolio-View%20Work-4A148C?style=for-the-badge&logo=vercel&logoColor=white&color=6C3483" alt="Portfolio" />
+</a>
+
 </div>
 
 ---
