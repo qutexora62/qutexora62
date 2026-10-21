@@ -65,10 +65,6 @@ mindset: "Build. Break. Learn. Repeat."
 
 <br/>
 
-<img src="https://streak-stats.demolab.com/?user=qutexora62&theme=radical&hide_border=true&background=0D1117&stroke=00E5FF&ring=00E5FF&fire=00E5FF&currStreakLabel=00E5FF" />
-
-<br/>
-
 <img src="https://github-profile-trophy.vercel.app/?username=qutexora62&theme=radical&no-frame=true&no-bg=true&column=7&margin-w=8" />
 
 </div>
