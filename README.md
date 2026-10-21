@@ -63,10 +63,6 @@ mindset: "Build. Break. Learn. Repeat."
 
 <img height="180em" src="https://github-readme-stats.vercel.app/api?username=qutexora62&show_icons=true&theme=radical&include_all_commits=true&count_private=true&hide_border=true&bg_color=0D1117&title_color=00E5FF&icon_color=00E5FF&text_color=c9d1d9" />
 
-<br/>
-
-<img src="https://github-profile-trophy.vercel.app/?username=qutexora62&theme=radical&no-frame=true&no-bg=true&column=7&margin-w=8" />
-
 </div>
 
 ---
