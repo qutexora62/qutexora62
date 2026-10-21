@@ -106,7 +106,7 @@ mindset: "Build. Break. Learn. Repeat."
   <img src="https://img.shields.io/badge/Email-Cutexora62%40protonmail.com-6D4AFF?style=for-the-badge&logo=protonmail&logoColor=white" />
 </a>
 <a href="https://wa.me/917493090313">
-  <img src="https://img.shields.io/badge/WhatsApp-QUTEXORA-25D366?style=for-the-badge&logo=whatsapp&logoColor=white" />
+  <img src="https://img.shields.io/badge/WhatsApp-CUTEXORA-FF69B4?style=for-the-badge&logo=whatsapp&logoColor=white" />
 </a>
 
 </div>
